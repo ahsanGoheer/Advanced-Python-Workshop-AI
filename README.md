@@ -21,17 +21,12 @@ Clone the repository:
 git clone https://github.com/ahsanGoheer/Advanced-Python-Workshop-AI.git
 ```
 
-Navigate to the project directory:
-```bash
-cd Advanced-Python-Workshop-AI
-```
-
 ## Sessions
 
 - **Session 1:** Basics of Python for AI
 - **Session 2:** Advanced techniques and applications
 
-Each session folder contains notebooks and scripts used during the workshop.
+Each session folder contains slide decks, notebooks and scripts used during the workshop.
 
 ## Resources
 
