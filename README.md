@@ -26,11 +26,6 @@ Navigate to the project directory:
 cd Advanced-Python-Workshop-AI
 ```
 
-Install necessary Python packages:
-```bash
-pip install -r requirements.txt
-```
-
 ## Sessions
 
 - **Session 1:** Basics of Python for AI
